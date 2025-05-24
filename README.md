@@ -164,5 +164,6 @@ else:
 ## Output
 
 ![image](https://github.com/user-attachments/assets/655d1d4e-1bfe-4729-b51c-7c6d065f2450)
+
 ## Result
 Thus,the Python program that checks whether a given number is a palindrome using loops is created successfully.
